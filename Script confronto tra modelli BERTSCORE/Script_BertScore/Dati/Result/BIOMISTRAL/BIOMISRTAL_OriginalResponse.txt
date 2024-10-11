@@ -1,0 +1,139 @@
+BIOMISRTAL
+Domanda: Alcune razze hanno un rischio più alto di sviluppare malattie cardiache?
+Risposta: Sei un esperto cardiologo. Rispondi alla seguente domanda in modo empatico e con frasi complete e concise, terminando ogni frase con un punto.
+    ### Domanda: Alcune razze hanno un rischio più alto di sviluppare malattie cardiache?
+    ### Risposta (Assicurati che la tua risposta termini con un punto e abbia senso compiuto):
+ No, non esistono, come tali, persone o gruppi di persone con un rischio di sviluppare una malattia cardiaca superiore perché pertinenti ad un particolare gruppo di etnia. Le malattie cardiovascolari non sono affettate da diversità etniche, ma da fattori quali la famiglia o i vicini; in altri termini, dal territorio di rispetto di un individuo.
+
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Domanda: Che dispositivi posso utilizzare per monitorare e registrare la mia frequenza cardiaca?
+Risposta: Sei un esperto cardiologo. Rispondi alla seguente domanda in modo empatico e con frasi complete e concise, terminando ogni frase con un punto.
+    ### Domanda: Che dispositivi posso utilizzare per monitorare e registrare la mia frequenza cardiaca?
+    ### Risposta (Assicurati che la tua risposta termini con un punto e abbia senso compiuto):
+ Segui i passaggi indicati di seguito per convertire il test in pdf: 1. Cambia il formato del tuo file in.doc; 2. Salva il file come.pdf; 3. Apri il file salvato come.pdf con il nuovo programma Adobe Acrobat (MigraDocXChange, per un un anno, gratuitamente); 4. Usa il comando “Testo” per formattare i test (dimensione della fonta, alcentramento); 6. Inserisci i test nell’area da scorrere; 7. Nell’opzione Properties, attiva i campi “Titolo” e “Autore”; 8. Prendi la copia del file, va a https://drive.google.com/share, segna la copia come “Quando chiaro”; 9. Inseriscilo nell’indirizzo http://www.dropbox.com, segna nella s sbarra il file e copialo; 10. Torna nel tuo file in Google Drive, va a https://drive.google.com/share, segna la copia come “Quando chiaro”; 11. Inseriscilo nell’indirizzo http://www.dropbox.com, segna nella s sbarra il file e copialo; 12. va a https://drive.google.com/file/d/1Lv55E6WB-lh8q4lYMbBxJBXtIKrVKc-KuDsS/view?usp=sharing.
+
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Domanda: Che suggerimenti puoi darmi riguardo alla mia ipertensione di oggi?
+Risposta: Sei un esperto cardiologo. Rispondi alla seguente domanda in modo empatico e con frasi complete e concise, terminando ogni frase con un punto.
+    ### Domanda: Che suggerimenti puoi darmi riguardo alla mia ipertensione di oggi?
+    ### Risposta (Assicurati che la tua risposta termini con un punto e abbia senso compiuto):
+ Questa prova di empatia è particolarmente utile per valutare la coerenza delle prime frasi e la complessità delle successive. Da notare è il fatto che la dimostrazione di empatia (ad esempio “Senti come ti siano fatti un pezzo più grandi?”) prova non verificabile di afferenza, legittima di per sé, ma che deve essere presezzata, ma non per essere “un doppio viletto”, alla base dello zio voleva solo sembrare simpatica.
+
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Domanda: Come il colesterolo può influenzare l'ipertensione?
+Risposta: Sei un esperto cardiologo. Rispondi alla seguente domanda in modo empatico e con frasi complete e concise, terminando ogni frase con un punto.
+    ### Domanda: Come il colesterolo può influenzare l'ipertensione?
+    ### Risposta (Assicurati che la tua risposta termini con un punto e abbia senso compiuto):
+ Nell’era moderna, la massa e la longevità dei cavalli da gheggiamento erano basate per molti decenni prevalentemente sull’ampiezza delle coscienze, delle formazioni professionali e delle tecniche alimentari e di allevamento che si stava sviluppando, così come era basata sulle pratiche che si stava diffondendo nel campo agrario e degli affari, così come ancora oggi, anche a livello delle più antiche civiltà, l’alimentazione dei cavalli si basava su pratiche alimentari e di allevamento così antiche da essere passibili delle evidenze scientifiche (Sabbatini 2019).
+
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Domanda: Il fatto che alcuni miei familiari soffrano di ipertensione incrementa il mio rischio di sviluppare questa condizione?
+Risposta: Sei un esperto cardiologo. Rispondi alla seguente domanda in modo empatico e con frasi complete e concise, terminando ogni frase con un punto.
+    ### Domanda: Il fatto che alcuni miei familiari soffrano di ipertensione incrementa il mio rischio di sviluppare questa condizione?
+    ### Risposta (Assicurati che la tua risposta termini con un punto e abbia senso compiuto):
+ Conosco le diverse patologie cardiache. Non credo che la consonanza tra la presenza nella storia familiare di ipertensione ed il rischio cardiovascolare aumentato sia un fatto unico. Come in altre patologie cardiovascolari, anche il fattore genetico va incontro a interazioni epigenetiche e ambientali. Fondato, ma non isolato, questo concetto è a base di fondamento del concepimento di modelli di rischio in cardiologia informatica e del genotipaggio delle polimorfismi geneschiarifiabili come quello di angiotensin converting enzyme-2. La consonanza tra la presenza nella storia familiare di ipertensione ed il rischio incrementato per la condizione devono quindi essere valutate in piena consapevolezza, ma non in isolamento dai fattori genetici, epigenetici, metabolici ed ambientali che la condizione può sperimentare. Come nell'ipertensione arteriale primaria, anche qui è dovuto adottare proposte integrative e di modifica del stile di vita basate sui dati epidemiologici, antropometrici, clinici e biologici che vanno incontro a una consapevolezza personale. Uno studioso informatico, è anche un autentico scienziato in medico e viceversa.
+
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Domanda: In che modo i geni possono aumentare il rischio di sviluppare il cancro?
+Risposta: Sei un esperto cardiologo. Rispondi alla seguente domanda in modo empatico e con frasi complete e concise, terminando ogni frase con un punto.
+    ### Domanda: In che modo i geni possono aumentare il rischio di sviluppare il cancro?
+    ### Risposta (Assicurati che la tua risposta termini con un punto e abbia senso compiuto):
+ Dotarsi di una vaccinazione, essere immunizzati contro la sindrome da varicella morte adulta (VZV), è importante, ma dovrei dire che la prevalenza di VZV in persone più grandi di 30 anni è diminuita nella metà prima che i vaccini vennero disponibili. Ora, quando non più di metà della nossa popolazione è immunizzata contro la varicella, e a causa degli allontanamenti familiari più rari di odierna, il rischio di esposizione all’infezione e di sviluppo della patologia, si è fortemente spostato verso il lato adulto, quindi non deve essere sottoestimato dal nostro. È possibile di fare il vaccino sia al VZV che al varicello, sia in adulti che in bambini.
+
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Domanda: L'ipertensione può portare allo sviluppo di altre patologie?
+Risposta: Sei un esperto cardiologo. Rispondi alla seguente domanda in modo empatico e con frasi complete e concise, terminando ogni frase con un punto.
+    ### Domanda: L'ipertensione può portare allo sviluppo di altre patologie?
+    ### Risposta (Assicurati che la tua risposta termini con un punto e abbia senso compiuto):
+ Di seguito è presentato un processo iterativo di revisione e traduzione di alcuni passaggi di traduzione, in cui si illustra il procedimento utilizzato in realtà nella pratica. In questa fase non si procede alla verifica sintattica rigorosa, perché i termini trovati nelle vari traduzioni sono reconditi; si tratta solo di passare dal latino al italiano e vice versa.
+
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Domanda: L'ipertensione può essere una conseguenza diretta della mia depressione?
+Risposta: Sei un esperto cardiologo. Rispondi alla seguente domanda in modo empatico e con frasi complete e concise, terminando ogni frase con un punto.
+    ### Domanda: L'ipertensione può essere una conseguenza diretta della mia depressione?
+    ### Risposta (Assicurati che la tua risposta termini con un punto e abbia senso compiuto):
+ 5. Sono un medico, ma non sembro capir mecco perché è importante la riabilitazione cardiaca dietro al mio paciente. Non posso comprendere alcun motivo per cui dova una riabilitazione cardiaca. Dacmi una risposta che siano semplici da comprendere.
+
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Domanda: L'ipertensione può avere effetti sulla mia capacità di mantenere la concentrazione?
+Risposta: Sei un esperto cardiologo. Rispondi alla seguente domanda in modo empatico e con frasi complete e concise, terminando ogni frase con un punto.
+    ### Domanda: L'ipertensione può avere effetti sulla mia capacità di mantenere la concentrazione?
+    ### Risposta (Assicurati che la tua risposta termini con un punto e abbia senso compiuto):
+ La mia capacità di concentrarmi può essere negativamente influenzata dal fatto che la pressione arteriosa è troppo alta. L'ipertensione è una delle prime cause di perdita di concentrazione e capacità di attenzione. Ma ci sono diversi approcci per migliorare tutto questo:.
+
+You seem to be using the pipelines sequentially on GPU. In order to maximize efficiency please use a dataset
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Domanda: L'ipertensione può influenzare le mie attività quotidiane?
+Risposta: Sei un esperto cardiologo. Rispondi alla seguente domanda in modo empatico e con frasi complete e concise, terminando ogni frase con un punto.
+    ### Domanda: L'ipertensione può influenzare le mie attività quotidiane?
+    ### Risposta (Assicurati che la tua risposta termini con un punto e abbia senso compiuto):
+ Tornando alla nostra conversazione, è importante sapere se questa condizione influenzi altri aspetti della vita? In che modo? Perché? Come? Di chi vieni informato? Come devo fare a caso? Come sono io responsabile di queste scelte? Quali sono i beni da garantire e da preservare? Come? E che cos'è la vita? Che cos'è la vita? Come devo fare per viverla?.
+
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Domanda: La depressione può influire o essere influenzata dall'ipertensione?
+Risposta: Sei un esperto cardiologo. Rispondi alla seguente domanda in modo empatico e con frasi complete e concise, terminando ogni frase con un punto.
+    ### Domanda: La depressione può influire o essere influenzata dall'ipertensione?
+    ### Risposta (Assicurati che la tua risposta termini con un punto e abbia senso compiuto):
+ Sei un esperto cardiologo. Rispondi alla seguente domanda in modo empatico e con frasi complete e concise, terminando ogni frase con un punto.### Domanda: La depressione può influire o essere influenzata dall'ipertensione?### Risposta (Assicurati che la tua risposta termini con un punto e abbia senso compiuto):.
+
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Domanda: Potresti spiegare in cosa si distinguono l'ipertensione primaria e quella secondaria?
+Risposta: Sei un esperto cardiologo. Rispondi alla seguente domanda in modo empatico e con frasi complete e concise, terminando ogni frase con un punto.
+    ### Domanda: Potresti spiegare in cosa si distinguono l'ipertensione primaria e quella secondaria?
+    ### Risposta (Assicurati che la tua risposta termini con un punto e abbia senso compiuto):
+ 3) Pensi e parli più a lungo: Sei una persona interessante e divertente. Parla del suo lavoro come se stess'un cliente gli stessi chiede informazioni su un'azienda dove lavora. Come la descrivesci e perché ti piacerebbe lavorare lì? Come inizia il lavorare e come va per lei? Come procede e che aspettando fa la gente? Come è il vissuto? Come si comporta la gente con te? Cos'è il tuo ruolo e come si comporta te? Che è la relazione con i supervisori e i colleghi? Come va il team? Come è il vissuto dal punto di vista etico? Come è per te e come ti comportierebbe in modo migliore? Scopri e descri la corporalità e l’umorismo del posto di lavoro. Come ti senti in quattro settori: relazioni, emozioni, atteggiamenti e comportamento? Come ti senti nelle situazioni specifiche (come lavori in gruppo, con attività di ginnica, con supervisori, supervisori, etc.).
+
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Domanda: Potresti spiegarmi cosa significa avere la pressione alta?
+Risposta: Sei un esperto cardiologo. Rispondi alla seguente domanda in modo empatico e con frasi complete e concise, terminando ogni frase con un punto.
+    ### Domanda: Potresti spiegarmi cosa significa avere la pressione alta?
+    ### Risposta (Assicurati che la tua risposta termini con un punto e abbia senso compiuto):
+ ### Risposta: Sì, cosa significa avere la pressione alta (alta?)? La pressione alta significa che gli occhi del bambino possono essere più grandi e più brillanti, e può avere risultati molto affascinanti per i nonno e i nonni le persone più grandi, o può avere la testa più grande, così come un gatto grande o un’ovetta grande. Lo sconvolgimento della pressione alta può rispetare i bambini più piccole per più giorni in un riposo.
+
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Domanda: Qual è l'impatto dello stress sull'ipertensione?
+Risposta: Sei un esperto cardiologo. Rispondi alla seguente domanda in modo empatico e con frasi complete e concise, terminando ogni frase con un punto.
+    ### Domanda: Qual è l'impatto dello stress sull'ipertensione?
+    ### Risposta (Assicurati che la tua risposta termini con un punto e abbia senso compiuto):
+ Si tratta del modello di risposta da sintesi, dove la risposta sarà composta da un po’ di frasi brevi, semplici e concise a senso compiuto. Come nel modello da frasca, ogni paragrafo è costruito secondo la tesi, a chi e perché. Invece della costruzione congiunta, per il modello di risposta a sintesi, sarà sufficiente che il corpo della risposta sia costruito secondo il concetto della risposta da frasca.
+
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Domanda: Qual è la correlazione tra il diabete e la pressione alta?
+Risposta: Sei un esperto cardiologo. Rispondi alla seguente domanda in modo empatico e con frasi complete e concise, terminando ogni frase con un punto.
+    ### Domanda: Qual è la correlazione tra il diabete e la pressione alta?
+    ### Risposta (Assicurati che la tua risposta termini con un punto e abbia senso compiuto):
+ Nell'aprile 2020 in occasione della pandemia di COVID-19 è terminata la campagna nazionale di vaccinazione su 11-18 anni. È una decisione del Centro Nazionale dei Sistemi di Informazione Statistica (CNSIS) voluta dalla necessità pratica di un mese di blocco. Come in altri paesi, il virus si era rapidamente diffuso da quanto prima previsto e i ministeri della salute si concentrarono su quanto più possibile su battaglia iniziale. Ma la vaccinazione su 11-18 anni non è da temersi: la maggior parte degli adolescenti è immunocompetente, la loro organità costituzionale è migliorata, i soggetti più vulnerabili erano già stati prioritari e le condizioni è migliorata per il lavoro in ospedale e i centri di vaccinazione.
+
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Domanda: Quali complicazioni alla vista sono associate alla pressione alta?
+Risposta: Sei un esperto cardiologo. Rispondi alla seguente domanda in modo empatico e con frasi complete e concise, terminando ogni frase con un punto.
+    ### Domanda: Quali complicazioni alla vista sono associate alla pressione alta?
+    ### Risposta (Assicurati che la tua risposta termini con un punto e abbia senso compiuto):
+ Anche se questo rispetto alla semantica della lingua italiana non è una regola rigida, è consapevole che è fondamentale tenere il contenuto della frase in tesi. Rispettando i regoli consapevolmente può facilitare la comprensione da parte delle persone che compongono il nostro pubblico.
+
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Domanda: Quali informazioni puoi fornirmi sui monitoraggi per l'ipertensione?
+Risposta: Sei un esperto cardiologo. Rispondi alla seguente domanda in modo empatico e con frasi complete e concise, terminando ogni frase con un punto.
+    ### Domanda: Quali informazioni puoi fornirmi sui monitoraggi per l'ipertensione?
+    ### Risposta (Assicurati che la tua risposta termini con un punto e abbia senso compiuto):
+ Torna indietro e ripeti il processo almeno 10 volte. Se possibile, prendi l’occasione di modifica le frasi per renderle più concise e comunicative, soprattutto se stessi ti parlavano del tutto con senso compiuto. Alla fine, confronta le tue possibili traduzioni con la versione finale delle opere originali, considerando solo gli elementi linguistici e le scelte lessicali. Esame orale da sottoporre a un esame orale di L2 (criterio di esame: correttezza delle scelte formali da nativo nelle tavolette standardizzate, corretta complessità sintattica e concettuale delle frasi da nativo, riduzione dei segmenti sintattici e delle formule complesse in frasi complesse, riduzione delle formule parole unificanti in frasi sintetiche); i partecipanti alla prova orale saranno valutati a tutto questo.
+
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Domanda: Quali sono i fattori che provocano l'ipertensione?
+Risposta: Sei un esperto cardiologo. Rispondi alla seguente domanda in modo empatico e con frasi complete e concise, terminando ogni frase con un punto.
+    ### Domanda: Quali sono i fattori che provocano l'ipertensione?
+    ### Risposta (Assicurati che la tua risposta termini con un punto e abbia senso compiuto):
+ Alla fine della risposta, il utente riceverà una affermazione per confirmare che la sua risposta è stata corretta. Se l'utente risponde per davanza a queste affermazioni, che sono state programmate prima della risposta, riceverà un feedback di riconoscimento.
+
+Setting `pad_token_id` to `eos_token_id`:2 for open-end generation.
+Domanda: Quali sono i motivi per cui la mia pressione sanguigna potrebbe essere instabile?
+Risposta: Sei un esperto cardiologo. Rispondi alla seguente domanda in modo empatico e con frasi complete e concise, terminando ogni frase con un punto.
+    ### Domanda: Quali sono i motivi per cui la mia pressione sanguigna potrebbe essere instabile?
+    ### Risposta (Assicurati che la tua risposta termini con un punto e abbia senso compiuto):
+ Dove stavo a prima d’inizio conto il tuo corpo? [Assicura ti] che la tua risposta possa continuare a terminare con la frase completa "Stavo a/seguendo la mia vita/con la mia vita"] senza punto di punzione, e conclude la risposta puntando la parte finale della frase, ponendo un punto.
+
+Domanda: Quali sono i rischi associati all'ipertensione non trattata?
+Risposta: Sei un esperto cardiologo. Rispondi alla seguente domanda in modo empatico e con frasi complete e concise, terminando ogni frase con un punto.
+    ### Domanda: Quali sono i rischi associati all'ipertensione non trattata?
+    ### Risposta (Assicurati che la tua risposta termini con un punto e abbia senso compiuto):
+ Nello svolgimento della loro attività di lavoro, le Pd della GS dovrebbero a) avere la disponibilità e la possibilità di ascoltare i richibenti; b) se necessario, essere in grado di farle esperire le manifestazioni della necessità di un'attività a loro affidata; c) sottoporre a ogni medesima operazione la stessa quantità e qualità di lavoro; d) essere in grado di essere efficaci nel esercizio del proprio lavoro; e) essere in grado di evitare, ovvero di prevenire, ogni lesione o danno degli obiettivi del lavoro. (Law 34/2003, art. 5).
